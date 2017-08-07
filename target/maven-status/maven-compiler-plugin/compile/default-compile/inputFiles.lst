@@ -1,0 +1,12 @@
+/Users/sumitroy/Downloads/spring-boot-rest-example-master/src/main/java/com/sargent/task/dao/jpa/UserDetailRepository.java
+/Users/sumitroy/Downloads/spring-boot-rest-example-master/src/main/java/com/sargent/task/domain/RestErrorInfo.java
+/Users/sumitroy/Downloads/spring-boot-rest-example-master/src/main/java/com/sargent/task/Application.java
+/Users/sumitroy/Downloads/spring-boot-rest-example-master/src/main/java/com/sargent/task/api/rest/AbstractRestHandler.java
+/Users/sumitroy/Downloads/spring-boot-rest-example-master/src/main/java/com/sargent/task/api/rest/docs/SwaggerConfig.java
+/Users/sumitroy/Downloads/spring-boot-rest-example-master/src/main/java/com/sargent/task/service/UserDetailService.java
+/Users/sumitroy/Downloads/spring-boot-rest-example-master/src/main/java/com/sargent/task/exception/DataFormatException.java
+/Users/sumitroy/Downloads/spring-boot-rest-example-master/src/main/java/com/sargent/task/RestControllerAspect.java
+/Users/sumitroy/Downloads/spring-boot-rest-example-master/src/main/java/com/sargent/task/service/ServiceProperties.java
+/Users/sumitroy/Downloads/spring-boot-rest-example-master/src/main/java/com/sargent/task/api/rest/UserDetailController.java
+/Users/sumitroy/Downloads/spring-boot-rest-example-master/src/main/java/com/sargent/task/domain/UserDetail.java
+/Users/sumitroy/Downloads/spring-boot-rest-example-master/src/main/java/com/sargent/task/exception/ResourceNotFoundException.java

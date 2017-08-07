@@ -1,0 +1,12 @@
+com/sargent/task/domain/UserDetail.class
+com/sargent/task/service/ServiceProperties.class
+com/sargent/task/dao/jpa/UserDetailRepository.class
+com/sargent/task/api/rest/UserDetailController.class
+com/sargent/task/api/rest/docs/SwaggerConfig.class
+com/sargent/task/exception/DataFormatException.class
+com/sargent/task/domain/RestErrorInfo.class
+com/sargent/task/service/UserDetailService.class
+com/sargent/task/exception/ResourceNotFoundException.class
+com/sargent/task/RestControllerAspect.class
+com/sargent/task/api/rest/AbstractRestHandler.class
+com/sargent/task/Application.class
